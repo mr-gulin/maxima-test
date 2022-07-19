@@ -1,2 +1,2 @@
-# Maxima Test
+# Maxima  Test
 ## Heading 2

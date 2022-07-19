@@ -1,1 +1,1 @@
-# maxima-test
+# Maxima Test
